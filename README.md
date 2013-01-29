@@ -4,4 +4,4 @@ My house probably has a ~~no~~ source code (but it may be closed), so I only use
 
 (This strange ideia is based on the forked repository, as seen on [Wired][1])
 
-[1]:(http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
+[1]: http://www.wired.com/wiredenterprise/2013/01/this-old-house/
